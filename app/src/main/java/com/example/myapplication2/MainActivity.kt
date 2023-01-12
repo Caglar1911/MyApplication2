@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("aa","asd");
         Log.d("aa","asd");
+        Log.d("deneme","1");
     }
 }
