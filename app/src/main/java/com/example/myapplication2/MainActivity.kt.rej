@@ -1,0 +1,13 @@
+diff a/app/src/main/java/com/example/myapplication2/MainActivity.kt b/app/src/main/java/com/example/myapplication2/MainActivity.kt	(rejected hunks)
+@@ -9,10 +9,6 @@
+         super.onCreate(savedInstanceState)
+         setContentView(R.layout.activity_main)
+ 
+-        Log.d("aa","asd");
+-        Log.d("aa","asd");
+-        Log.d("deneme","1");
+-        Log.d("deneme","2");
+         Log.d("deneme","3");
+     }
+ }
+\ No newline at end of file
