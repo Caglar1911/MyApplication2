@@ -11,5 +11,14 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("deneme","3");
         Log.d("deneme","caglar1");
+
+        //Calisma1
+        Log.d("deneme","calisma1");
+        Log.d("deneme","calisma1");
+        Log.d("deneme","calisma1");
+        Log.d("deneme","calisma1");
+
+
+
     }
 }
