@@ -12,7 +12,12 @@ class MainActivity : AppCompatActivity() {
         Log.d("deneme","3");
         Log.d("deneme","caglar1");
 
-        //Çalışma3
+        //Çalışma2 işi
+        Log.d("deneme","Çalışma2");
+        Log.d("deneme","Çalışma2");
+        Log.d("deneme","Çalışma2");
+        
+//Çalışma3
         Log.d("deneme","Çalışma3");
         Log.d("deneme","Çalışma3");
         Log.d("deneme","Çalışma3");
